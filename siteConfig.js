@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "http://infodescontos.net", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://WellnessGarden-Voerde.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "infodescontos", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "WellnessGarden-Voerde", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "infodescontos", // This allows an alternative site description for meta data for pages.
+    "WellnessGarden-Voerde", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "infodescontos", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "WellnessGarden-Voerde", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: true,
-    title: "infodescontos",
+    title: "WellnessGarden-Voerde",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://infodescontos.net/",
+        url: "https://WellnessGarden-Voerde.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://infodescontos.net/contact",
+        url: "https://WellnessGarden-Voerde.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://infodescontos.net/",
+        url: "https://WellnessGarden-Voerde.net/",
       },
       {
         label: "Sitemap",
-        url: "https://infodescontos.net/sitemap.xml",
+        url: "https://WellnessGarden-Voerde.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://infodescontos.net/contact",
+        url: "https://WellnessGarden-Voerde.net/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "infodescontos",
+    title: "WellnessGarden-Voerde",
     description:
-      "infodescontos",
+      "WellnessGarden-Voerde",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "infodescontos",
+  siteTitle: "WellnessGarden-Voerde",
   siteDescription:
-    "infodescontos",
+    "WellnessGarden-Voerde",
   language: "he",
   logoUrl: "",
   iconUrl: "",
